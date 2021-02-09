@@ -5,7 +5,7 @@ public class Main
 		System.out.println("Welcome!");
 		// further code will go here in the future.
 
-		Customer cus1 = new Customer("Lingling Zhang");
+		Customer cus1 = new Customer("Dupre Lavelle");
 		Customer cus2 = new Customer("Harpreet Singh");
 		Customer cus3 = new Customer("John Johnston");
 		Customer cus4 = new Customer("Tamara Smolya");
