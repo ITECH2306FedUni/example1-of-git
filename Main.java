@@ -7,7 +7,7 @@ public class Main
 
 		Customer cus1 = new Customer("Dupre Lavelle");
 		Customer cus2 = new Customer("Harpreet Singh");
-		Customer cus3 = new Customer("John Johnston");
+		Customer cus3 = new Customer("Gagandeep Singh");
 		Customer cus4 = new Customer("Tamara Smolya");
 	}
 }
