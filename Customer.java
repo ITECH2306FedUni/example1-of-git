@@ -10,5 +10,11 @@ public class Customer
 	{
 		this.name = name;
 	}
+
+	/** Obtain the name of this customer. */
+	public String getName()
+	{
+		return name;
+	}
 }
 
