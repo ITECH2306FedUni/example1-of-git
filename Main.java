@@ -10,5 +10,6 @@ public class Main
 		Customer cus3 = new Customer("Gagandeep Singh");
 		Customer cus4 = new Customer("Tamara Smolya");
 		Customer cus5 = new Customer("Helen Wade");
+		Customer cus6 = new Customer("Josh Turville");
 	}
 }
